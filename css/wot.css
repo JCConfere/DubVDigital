@@ -1,0 +1,74 @@
+h1 {
+    color: white;
+    font-family: vivaldi;
+    font-size: 50px;
+    padding-bottom: 25px;
+
+
+}
+
+body {
+  background-color:rgb(15, 15, 15);
+
+}
+
+nav {
+  margin-bottom: 40px;
+}
+
+p {
+    color:whitesmoke;
+    font-family: "monotype corsiva";
+    font-size: 35px;
+    text-decoration: none;
+}
+
+.main {
+  height: 700px;
+  background-image:url("../img/wot-img/logo.jpg");
+  background-repeat: no-repeat;
+  background-position:center;
+
+}
+
+.welcome {
+  width: 85%;
+  height: auto;
+  border-bottom-style: groove;
+  border-top-style: groove;
+  border-color: gold;
+  background: rgba(15, 15, 15, 0.75);
+  position: absolute;
+  top: 40%;
+}
+
+.weaves {
+	font-family: vivaldi !important;
+    padding: 20, 10, 10, 20;
+}
+
+a {
+  color: gold;
+}
+
+h3 {
+  color: gold;
+}
+
+.nav-tab {
+  bottom: 0px;
+	margin-top: 25px;
+	text-align: center;
+	font-size: 25px;
+  color: gold;
+	padding-top: 30px;
+  padding-left: 30px;
+	height: 120px;
+}
+
+.bottom-nav {
+position: absolute;
+bottom: 10px;
+width: 100%;
+
+}

@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  background-color: rgb(15,15,15) !important;
+  color: whitesmoke !important;
+}
+
+.container {
+  width: 75%;
+}
+
+.book {
+  background-image: url("../img/wot-books-img/parchment2.jpg");
+  background-size:  cover;
+  align-content: center;
+
+}
+
+.cover {
+ padding-top: 40px;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+
+.col-head {
+  color: whitesmoke;
+  font-size: 35px;
+  font-family: vivaldi;
+  font-weight: 500;
+  text-align: center;
+}
+
+.kar {
+  color: whitesmoke;
+  font-family: vivaldi;
+  font-size: 35px;
+  background-color: black;
+}
+
+.spacer {
+  height: 650px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+
+
+
+h1 {
+  text-align: center;
+  font-family: vivaldi;
+}
+
+#prophecy {
+  color: gold;
+}
+.verse {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 100px;
+  font-family: 'Charm', cursive;
+  height: 650px;
+}
+
+.more {
+  padding-left: 100px;
+}
+.caption {
+  padding: 16px 20px 16px 32px;
+  color: rgb(15, 15, 15);
+}
+
+.excerpt {
+  margin-top: 16px;
+}
